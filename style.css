@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    background-color: rgb(226, 150, 43);
+    font-size: 40px;
+}
+#ElImperio{
+
+    font-style: italic;
+    background-color:blue;
+ }
+#LosRebeldes{
+    font-style: oblique;
+    background-color:blueviolet;
+}
+img{
+    max-width: 300px;  
+}
+#Lider{
+    font-size: x-large;
+    color: yellow;
+}
+h2{
+    font-size: 30px;
+}
+#losrebeldes{
+    color: rgb(199, 255, 16);
+}
+#elimperio{
+    color: blanchedalmond;
+}
